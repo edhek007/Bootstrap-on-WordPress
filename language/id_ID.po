@@ -1,0 +1,178 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Bootstrap 3.3.4\n"
+"POT-Creation-Date: 2015-06-21 21:20+0100\n"
+"PO-Revision-Date: 2015-06-21 21:20+0100\n"
+"Last-Translator: \n"
+"Language-Team: babobski\n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.6\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:14
+msgid "Page not found"
+msgstr "Halaman tidak ditemukan"
+
+#: ../archive.php:22 ../archive.php:24 ../archive.php:26 ../archive.php:28
+msgid "Archive"
+msgstr "Arsip"
+
+#: ../archive.php:36 ../author.php:28 ../category.php:21 ../index.php:27
+#: ../search.php:22 ../single.php:19
+msgid "Leave a Comment"
+msgstr "Tinggalkan Komentar"
+
+#: ../archive.php:36 ../author.php:28 ../category.php:21 ../index.php:27
+#: ../search.php:22 ../single.php:19
+msgid "1 Comment"
+msgstr "1 Komentar"
+
+#: ../archive.php:36 ../author.php:28 ../category.php:21 ../index.php:27
+#: ../search.php:22 ../single.php:19
+msgid "% Comments"
+msgstr "% Komentar-komentar"
+
+#: ../archive.php:44
+msgid "No posts to display"
+msgstr "Tidak ada pos untuk ditampilkan"
+
+#: ../author.php:16
+msgid "Author Archives:"
+msgstr "Arsip Penulis:"
+
+#: ../author.php:20 ../single.php:24
+msgid "About"
+msgstr "Tentang"
+
+#: ../author.php:36
+msgid "No posts to display for"
+msgstr "Tiada tampilan pos untuk"
+
+#: ../category.php:15
+msgid "Category Archive:"
+msgstr "Arsip Kategori:"
+
+#: ../category.php:28
+msgid "No posts to display in"
+msgstr "Tiada tiada tampilan pos dalam"
+
+#: ../comments.php:46
+msgid "Comments are closed"
+msgstr "Komentar ditutup"
+
+#: ../comments.php:66
+msgid "Name"
+msgstr "Nama"
+
+#: ../comments.php:69
+msgid "Email"
+msgstr "E-mail"
+
+#: ../comments.php:73
+msgid "Comment"
+msgstr "Komentar"
+
+#: ../comments.php:95
+msgid "Name is required"
+msgstr "Nama diperlukan"
+
+#: ../comments.php:102
+msgid "Email is required"
+msgstr "E-mail diperlukan"
+
+#: ../comments.php:109
+msgid "Comment is required"
+msgstr "Komentar diperlukan"
+
+#: ../index.php:21
+msgid "Latest Posts"
+msgstr "Pos terbaru"
+
+#: ../index.php:35
+msgid "Nothing to show yet."
+msgstr "Tidak ada yang dibisa ditunjukkan."
+
+#: ../search.php:16
+msgid "Search Results for"
+msgstr "Hasil Pencarian untuk"
+
+#: ../search.php:30
+msgid "No results found for"
+msgstr "Hasil tidak ditemukan untuk"
+
+#: ../searchform.php:3
+msgid "Search"
+msgstr "Cari"
+
+#: ../searchform.php:5
+msgid "Submit"
+msgstr "Kumpulkan"
+
+#~ msgid "Bootstrap 3.3.4 Theme Settings"
+#~ msgstr "Pengaturan Tema Bootstrap 3.3.4"
+
+#~ msgid "Site Settings"
+#~ msgstr "Pengaturan Situs"
+
+#~ msgid "Seo Settings"
+#~ msgstr "Pengaturan Seo"
+
+#~ msgid "Display company name after title"
+#~ msgstr "Tampilan nama perusahaan setelah judul"
+
+#~ msgid "Title separator"
+#~ msgstr "Pembatas judul"
+
+#~ msgid "Homepage Seo title"
+#~ msgstr "Homepage judul Seo"
+
+#~ msgid "Hompage Seo Description"
+#~ msgstr "Homepage Deskripsi Seo"
+
+#~ msgid "Hompage Seo Keywords"
+#~ msgstr "Homepage Kata Kunci Seo"
+
+#~ msgid "Some site defaults"
+#~ msgstr "Beberapa pengaturan default Situs"
+
+#~ msgid "Homepage settings:"
+#~ msgstr "Homepage pengaturan:"
+
+#~ msgid "SEO"
+#~ msgstr "SEO"
+
+#~ msgid "Page title"
+#~ msgstr "Judul halaman"
+
+#~ msgid "Page description"
+#~ msgstr "Halaman Deskripsi"
+
+#~ msgid "Page keywords"
+#~ msgstr "Kata kunci halaman"
+
+#~ msgid "No index / No follow (hidden for searchengine)"
+#~ msgstr "No index / No follow (disembunyikan dari mesin pencari)"
+
+#~ msgid "Seo Title"
+#~ msgstr "Judul Seo"
+
+#~ msgid "Seo Desciption"
+#~ msgstr "Deskripsi Seo"
+
+#~ msgid "Seo Keywords"
+#~ msgstr "Kata Kunci Seo"
+
+#~ msgid "No Index / No Follow"
+#~ msgstr "No Index / No Follow"
+
+#~ msgid "No index / No Follow (hidden for searchengine)"
+#~ msgstr "No index / no Follow (disembunyikan dari mesin pencari)"
+
+#~ msgid "No index / no Follow (hidden for searchengine)"
+#~ msgstr "No index / no Follow (disembunyikan dari mesin pencari)"
